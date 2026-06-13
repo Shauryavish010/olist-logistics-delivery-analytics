@@ -229,7 +229,7 @@ Different routes exhibit varying delivery performance, highlighting opportunitie
 
 ## Customer Satisfaction Dashboard
 
-![Customer Dashboard](screenshots/customer satisfaction.png)
+![Customer Dashboard](screenshots/customer_satisfaction.png)
 
 ---
 
