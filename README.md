@@ -223,19 +223,19 @@ Different routes exhibit varying delivery performance, highlighting opportunitie
 
 ## Executive Dashboard
 
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard](screenshots/executive.png)
 
 ---
 
 ## Customer Satisfaction Dashboard
 
-![Customer Dashboard](screenshots/customer_satisfaction.png)
+![Customer Dashboard](screenshots/customer satisfaction.png)
 
 ---
 
 ## Route Performance Dashboard
 
-![Route Dashboard](screenshots/route_performance.png)
+![Route Dashboard](screenshots/Route.png)
 
 ---
 
