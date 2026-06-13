@@ -271,5 +271,5 @@ README.md
 
 Aspiring Data Analyst passionate about solving business problems through data-driven insights.
 
-LinkedIn: [*(Add your LinkedIn URL)*](https://www.linkedin.com/in/shaurya-vishwakarma-497803318/)
+LinkedIn: [*(Shaurya Vishwakarma)*](https://www.linkedin.com/in/shaurya-vishwakarma-497803318/)
 
